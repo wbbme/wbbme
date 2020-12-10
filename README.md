@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wbbme&show_icons=true&theme=tokyonight&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wbbme&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
 
 #### Hello 👏
 
