@@ -1,8 +1,5 @@
 
 <a href=#><img src="contributions.svg"></a>
-
- 
- ![](https://komarev.com/ghpvc/?username=wbbme&color=lightgrey)
  
 <!--
 **wbbme/wbbme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
